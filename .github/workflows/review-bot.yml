@@ -16,5 +16,5 @@ jobs:
       issues: write
       pull-requests: write
       contents: read
-    uses: stuhlmuller/workflows/.github/workflows/review-bot.yml@931a2f4e526c492bc8eecb08f6854626eb5eb6fc # main
+    uses: stuhlmuller/workflows/.github/workflows/review-bot.yml@43e92f32a7b6175ed6e5ee05a66c432745989ded # main
     secrets: inherit
